@@ -14,7 +14,7 @@ def requirements(file="requirements.txt") -> list:
 def readme(file="README.md"):
     if os.path.isfile(file):
         with open(file, encoding="utf8") as r:
-            return readme.read()
+            return r.read()
     else:
         return ""
 
