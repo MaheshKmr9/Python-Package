@@ -38,8 +38,8 @@ setuptools.setup(
     ],
     project_urls={
         "Tracker": "https://github.com/FayasNoushad//issues",
-        "Source": "https://github.com/FayasNoushad",
-        "Documentation": "https://projects.fayas.me",
+        "Source": "https://github.com/FayasNoushad/",
+        "Documentation": "https://.projects.fayas.me",
     },
     python_requires=">=3.6",
     packages=setuptools.find_packages(),
