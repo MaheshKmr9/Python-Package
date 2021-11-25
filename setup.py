@@ -28,7 +28,6 @@ setuptools.setup(
     download_url="https://github.com/FayasNoushad//releases/latest",
     license="MIT",
     author="Fayas Noushad",
-    author_email="contact@fayas.me",
     classifiers=[
         "Intended Audience :: Developers",
         "Natural Language :: English",
@@ -38,8 +37,7 @@ setuptools.setup(
     ],
     project_urls={
         "Tracker": "https://github.com/FayasNoushad//issues",
-        "Source": "https://github.com/FayasNoushad/",
-        "Documentation": "https://.projects.fayas.me",
+        "Source": "https://github.com/FayasNoushad/"
     },
     python_requires=">=3.6",
     packages=setuptools.find_packages(),
