@@ -40,6 +40,7 @@ setuptools.setup(
         "Source": "https://github.com/FayasNoushad/"
     },
     python_requires=">=3.6",
+    py_modules=[],
     packages=setuptools.find_packages(),
     zip_safe=False,
     install_requires=requirements()
